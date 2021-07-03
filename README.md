@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Really don't know what I'm interested in, but it's something among/in between Robotics, Autonomous Navigation, Controls.
+Really don't know in exactly what I'm interested in, but it's something among/in between Robotics, Autonomous Navigation, Controls.
 
 <!--
 **adbidwai/adbidwai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
