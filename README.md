@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-Really don't know exactly what I'm interested in, but it's something among/in between Robotics, Autonomous Navigation, Controls. 
+I'm an ECE undegraduate student from BITS-PILANI University (Goa Campus). 
+
+My research interests lie in robotics and autonomous navigation, especically control of mobile robots. 
+
+Currently exploring the perception side of robotics :D
 
 Feel free anytime to reach out on mail : adbidwai@gmail.com
 
