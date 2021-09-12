@@ -2,7 +2,7 @@
 
 I'm an ECE undegraduate student from BITS-PILANI University (Goa Campus). 
 
-My research interests lie in robotics and autonomous navigation, especially control of mobile robots. 
+My research interests lie in embedded systems, robotics and autonomous navigation, especially control of mobile robots. 
 
 Currently exploring the perception side of robotics :D
 
