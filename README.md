@@ -4,7 +4,9 @@ I'm an ECE undegraduate student from BITS-PILANI University (Goa Campus).
 
 My research interests lie in embedded systems, robotics and autonomous navigation, especially control of mobile robots. 
 
-Currently exploring the perception side of robotics :D
+Currently researching on geometric control for complex maneuevers and agile exploration of quadrotors.
+
+I am also diving into the perception side of robotics and researching on different exploration strategies for active VSLAM.
 
 Feel free anytime to reach out on mail : adbidwai@gmail.com
 
