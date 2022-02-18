@@ -8,7 +8,7 @@ Currently researching on geometric control for complex maneuevers and agile expl
 
 I am also diving into the perception side of robotics and researching on different exploration strategies for active VSLAM.
 
-Feel free anytime to reach out on mail : adbidwai@gmail.com
+Feel free anytime to reach out on email : adbidwai@gmail.com
 
 <!--
 **adbidwai/adbidwai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
