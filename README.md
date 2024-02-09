@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I work as a research engineer at the Multi Agent Robotic Motion (MARMot) Lab in NUS, Singapore. I graduated as a bachelor's student in ECE from BITS-Pilani, Goa campus in 2022.
+I work as a research engineer at the Multi Agent Robotic Motion (MARMot) Lab in NUS, Singapore. I earned my bachelor's degree in Electrical and Computer Engineering from BITS-Pilani, Goa campus in 2022.
 
 My broad research interests lie in (or in the intersection of) embedded systems (I love to work with hardware :D), robotics and autonomous navigation. I am (currently) specifically more interested in the perception and control domains of mobile robotics. Looking forward to also get into learning methods for autonomous navigation, like end-to-end learning and reinforcement learning.
 
