@@ -2,11 +2,7 @@
 
 I work as a research engineer at the Multi Agent Robotic Motion (MARMot) Lab in NUS, Singapore. I earned my bachelor's degree in Electrical and Computer Engineering from BITS-Pilani, Goa campus in 2022.
 
-My broad research interests lie in (or in the intersection of) embedded systems (I love to work with hardware :D), robotics and autonomous navigation. I am (currently) specifically more interested in the perception and control domains of mobile robotics. Looking forward to also get into learning methods for autonomous navigation, like end-to-end learning and reinforcement learning.
-
-Currently researching on geometric control for complex maneuevers and agile exploration of quadrotors.
-
-I am also diving into the perception side of robotics and researching on different exploration strategies for active VSLAM.
+Broadly, I am interested in robotics and autonomy. Specifically, I am interested in the synergy between perception and planning so that robots interact with the environment with much more awareness.
 
 Feel free anytime to reach out on email : adbidwai@gmail.com
 
