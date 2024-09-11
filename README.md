@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I work as a research engineer at the Multi Agent Robotic Motion (MARMot) Lab in NUS, Singapore. I earned my bachelor's degree in Electrical and Computer Engineering from BITS-Pilani, Goa campus in 2022.
+My name is Aditya. I'm currently a graduate student studying robotics at the University of Minnesota Twin Cities.
+
+Previously, I worked as a research engineer at the Multi Agent Robotic Motion (MARMot) Lab in NUS, Singapore. I earned my bachelor's degree in Electrical and Computer Engineering from BITS-Pilani, Goa campus in 2022.
 
 Broadly, I am interested in robotics and autonomy. Specifically, I am interested in the synergy between perception and planning so that robots interact with the environment with much more awareness.
 
