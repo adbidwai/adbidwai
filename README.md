@@ -6,7 +6,7 @@ Previously, I worked as a research engineer at the Multi Agent Robotic Motion (M
 
 Broadly, I am interested in robotics and autonomy. Specifically, I am interested in the synergy between perception and planning so that robots interact with the environment with much more awareness.
 
-Feel free anytime to reach out on email : adbidwai@gmail.com
+Feel free anytime to reach out on email : [github_username][at]gmail.com
 
 <!--
 **adbidwai/adbidwai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
